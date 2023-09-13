@@ -1,0 +1,29 @@
+.port {
+  min-height: 80vh;
+  margin-top: 8.999rem;
+}
+
+.line{
+  height: 4px;
+  width: 80px;
+  background-color: #2C3E50;
+}
+
+.img {
+  transition: all 1s;
+}
+
+.layer__ {
+  background-color: #1abc9ce6;
+  opacity: 0;
+  cursor: pointer;
+  transition: .6s opacity;
+}
+
+.layer__:hover {
+  opacity: 1;
+}
+
+.model__ {
+  z-index: 9999;
+} 

@@ -1,0 +1,10 @@
+.notfound {
+  min-height: 80vh;
+  margin-top: 8.999rem;
+}
+
+.line{
+  height: 4px;
+  width: 80px;
+  background-color: #2C3E50;
+}

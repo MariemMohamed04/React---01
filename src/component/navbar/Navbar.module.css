@@ -1,0 +1,9 @@
+.navbar {
+  background-color: #2C3E50;
+  /* opacity: 0.5; */
+}
+
+.navLink:active {
+  background-color: #1abc9c;
+  border-radius: 5px;
+}

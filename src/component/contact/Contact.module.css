@@ -1,0 +1,27 @@
+.contact {
+  min-height: 80vh;
+  margin-top: 8.999rem;
+}
+
+.line{
+  height: 4px;
+  width: 80px;
+  background-color: #2C3E50;
+}
+
+.btn {
+  background-color: #1abc9c;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #1abc9c;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+label {
+  color: #1abc9c;
+}
